@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # users_list_api
 
 Get users from API.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# FlutterApp-Users-from-API
+Get users list from API
+>>>>>>> ae25893ea8c25ca36d1e782ecddd6c934668c750
